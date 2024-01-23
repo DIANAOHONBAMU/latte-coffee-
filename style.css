@@ -1,0 +1,49 @@
+
+
+.topnav { 
+    background-color: darkolivegreen;
+    padding: 80px;
+    display: flex;
+    justify-content: space-between;
+    border: solid brown 2px;
+}
+
+
+ body {
+        /* background-image: url(480x854-Wallpaper-327.jpg); */
+        color: #FFFFFF;
+  }
+
+ p {
+    color: bisque;
+    text-align: center;
+    font-size: 50px;
+    padding: 60px;
+    background: local;
+  }
+
+
+
+ #menu-box {
+    text-align: left;
+ }
+
+#Lattes coffee bar {
+   border: solid 10px pink;
+   justify-content: center;
+   display: flex;
+   padding: 120px;
+}
+ 
+     
+
+
+
+
+
+
+
+
+
+
+
